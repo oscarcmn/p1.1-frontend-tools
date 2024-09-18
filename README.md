@@ -130,13 +130,17 @@ Ennumerate and explain each one of the files included in this repo.
 17. **Install [git](https://git-scm.com/) in your computer**. I had it already installed
     
 18. **Init the git project**
+
+
+    ![alt text](image-2.png)
     
+
 19. **Log in to your GitHub account provided by IES Azarquiel** I have already done it
     
-20. **Follow the teacher on GitHub at the following link: [https://github.com/jeatzr/](https://github.com/jeatzr/)**
+20. **Follow the teacher on GitHub at the following link: [https://github.com/jeatzr/](https://github.com/jeatzr/)** Done
     
-21. **Create a new empty project on GitHub named `p1.1-frontend-tools`.**
+21. **Create a new empty project on GitHub named `p1.1-frontend-tools`.**Done
     
-22. **Follow the instructions in the command line provided by GitHub to add your files, create the first commit and push it. Notice that in out case we have to add all files to the staged area with `git add .`, not just`git add README.md`** 
+22. **Follow the instructions in the command line provided by GitHub to add your files, create the first commit and push it. Notice that in out case we have to add all files to the staged area with `git add .`, not just`git add README.md`**  Done
     
 23. **To finish, submit the link of your GH repo to the task in our Classroom.**
